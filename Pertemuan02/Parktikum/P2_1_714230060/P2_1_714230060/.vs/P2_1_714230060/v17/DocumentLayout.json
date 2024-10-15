@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Documents\\pemrograman ferdy\\P2_1_714230060\\P2_1_714230060\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7D0DBC-D3CD-43D9-89ED-CA50E9A003AF}|P2_1_714230060\\P2_1_714230060.csproj|c:\\users\\acer\\documents\\pemrograman ferdy\\p2_1_714230060\\p2_1_714230060\\p2_1_714230060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7D0DBC-D3CD-43D9-89ED-CA50E9A003AF}|P2_1_714230060\\P2_1_714230060.csproj|solutionrelative:p2_1_714230060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Documents\\pemrograman ferdy\\P2_1_714230060\\P2_1_714230060\\P2_1_714230060\\Program.cs",
+              "RelativeDocumentMoniker": "P2_1_714230060\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Documents\\pemrograman ferdy\\P2_1_714230060\\P2_1_714230060\\P2_1_714230060\\Program.cs",
+              "RelativeToolTip": "P2_1_714230060\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:24:19.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
