@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\ferdy\\Kuliah Ferdy ULBI\\Semester3\\pemrograman ferdy\\PemrogramanII_714230060\\Pertemuan05\\Tugas\\P5_4_714230060\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94A63625-FEAA-4F54-98A3-EE575F637AF9}|P5_4_714230060\\P5_4_714230060.csproj|c:\\users\\lenovo\\documents\\ferdy\\kuliah ferdy ulbi\\semester3\\pemrograman ferdy\\pemrogramanii_714230060\\pertemuan05\\tugas\\p5_4_714230060\\p5_4_714230060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94A63625-FEAA-4F54-98A3-EE575F637AF9}|P5_4_714230060\\P5_4_714230060.csproj|solutionrelative:p5_4_714230060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94A63625-FEAA-4F54-98A3-EE575F637AF9}|P5_4_714230060\\P5_4_714230060.csproj|C:\\Users\\Lenovo\\Documents\\ferdy\\Kuliah Ferdy ULBI\\Semester3\\pemrograman ferdy\\PemrogramanII_714230060\\Pertemuan05\\Tugas\\P5_4_714230060\\p5_4_714230060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94A63625-FEAA-4F54-98A3-EE575F637AF9}|P5_4_714230060\\P5_4_714230060.csproj|solutionrelative:p5_4_714230060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94A63625-FEAA-4F54-98A3-EE575F637AF9}|P5_4_714230060\\P5_4_714230060.csproj|c:\\users\\lenovo\\documents\\ferdy\\kuliah ferdy ulbi\\semester3\\pemrograman ferdy\\pemrogramanii_714230060\\pertemuan05\\tugas\\p5_4_714230060\\p5_4_714230060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{94A63625-FEAA-4F54-98A3-EE575F637AF9}|P5_4_714230060\\P5_4_714230060.csproj|solutionrelative:p5_4_714230060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{94A63625-FEAA-4F54-98A3-EE575F637AF9}|P5_4_714230060\\P5_4_714230060.csproj|c:\\users\\lenovo\\documents\\ferdy\\kuliah ferdy ulbi\\semester3\\pemrograman ferdy\\pemrogramanii_714230060\\pertemuan05\\tugas\\p5_4_714230060\\p5_4_714230060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A63625-FEAA-4F54-98A3-EE575F637AF9}|P5_4_714230060\\P5_4_714230060.csproj|solutionrelative:p5_4_714230060\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ferdy\\Kuliah Ferdy ULBI\\Semester3\\pemrograman ferdy\\PemrogramanII_714230060\\Pertemuan05\\Tugas\\P5_4_714230060\\P5_4_714230060\\Form1.cs",
               "RelativeDocumentMoniker": "P5_4_714230060\\Form1.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\ferdy\\Kuliah Ferdy ULBI\\Semester3\\pemrograman ferdy\\PemrogramanII_714230060\\Pertemuan05\\Tugas\\P5_4_714230060\\P5_4_714230060\\Form1.cs",
               "RelativeToolTip": "P5_4_714230060\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswFgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T13:33:03.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\ferdy\\Kuliah Ferdy ULBI\\Semester3\\pemrograman ferdy\\PemrogramanII_714230060\\Pertemuan05\\Tugas\\P5_4_714230060\\P5_4_714230060\\Form1.cs",
               "RelativeDocumentMoniker": "P5_4_714230060\\Form1.cs",

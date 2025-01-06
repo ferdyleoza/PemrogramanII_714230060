@@ -32,8 +32,8 @@
             this.DisplayButton = new System.Windows.Forms.Button();
             this.ExitButton = new System.Windows.Forms.Button();
             this.OutputGroupBox = new System.Windows.Forms.GroupBox();
-            this.DateOption = new System.Windows.Forms.RadioButton();
             this.TimeOption = new System.Windows.Forms.RadioButton();
+            this.DateOption = new System.Windows.Forms.RadioButton();
             this.OutputGroupBox.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -44,7 +44,7 @@
             this.OutputLabel.Font = new System.Drawing.Font("Trebuchet MS", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.OutputLabel.Location = new System.Drawing.Point(0, 0);
             this.OutputLabel.Name = "OutputLabel";
-            this.OutputLabel.Size = new System.Drawing.Size(287, 23);
+            this.OutputLabel.Size = new System.Drawing.Size(509, 23);
             this.OutputLabel.TabIndex = 0;
             this.OutputLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.OutputLabel.Click += new System.EventHandler(this.label1_Click);
@@ -62,7 +62,7 @@
             // ExitButton
             // 
             this.ExitButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.ExitButton.Location = new System.Drawing.Point(178, 88);
+            this.ExitButton.Location = new System.Drawing.Point(400, 88);
             this.ExitButton.Name = "ExitButton";
             this.ExitButton.Size = new System.Drawing.Size(75, 25);
             this.ExitButton.TabIndex = 2;
@@ -77,21 +77,10 @@
             this.OutputGroupBox.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.OutputGroupBox.Location = new System.Drawing.Point(0, 159);
             this.OutputGroupBox.Name = "OutputGroupBox";
-            this.OutputGroupBox.Size = new System.Drawing.Size(287, 104);
+            this.OutputGroupBox.Size = new System.Drawing.Size(509, 104);
             this.OutputGroupBox.TabIndex = 3;
             this.OutputGroupBox.TabStop = false;
             this.OutputGroupBox.Text = "Choose Output";
-            // 
-            // DateOption
-            // 
-            this.DateOption.Location = new System.Drawing.Point(16, 23);
-            this.DateOption.Name = "DateOption";
-            this.DateOption.Size = new System.Drawing.Size(184, 24);
-            this.DateOption.TabIndex = 0;
-            this.DateOption.TabStop = true;
-            this.DateOption.Text = "Display Current D&ate";
-            this.DateOption.UseVisualStyleBackColor = true;
-            this.DateOption.CheckedChanged += new System.EventHandler(this.DateOption_CheckedChanged);
             // 
             // TimeOption
             // 
@@ -104,11 +93,22 @@
             this.TimeOption.UseVisualStyleBackColor = true;
             this.TimeOption.CheckedChanged += new System.EventHandler(this.TimeOption_CheckedChanged);
             // 
+            // DateOption
+            // 
+            this.DateOption.Location = new System.Drawing.Point(16, 23);
+            this.DateOption.Name = "DateOption";
+            this.DateOption.Size = new System.Drawing.Size(184, 24);
+            this.DateOption.TabIndex = 0;
+            this.DateOption.TabStop = true;
+            this.DateOption.Text = "Display Current D&ate";
+            this.DateOption.UseVisualStyleBackColor = true;
+            this.DateOption.CheckedChanged += new System.EventHandler(this.DateOption_CheckedChanged);
+            // 
             // ChildForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(287, 263);
+            this.ClientSize = new System.Drawing.Size(509, 263);
             this.Controls.Add(this.OutputGroupBox);
             this.Controls.Add(this.ExitButton);
             this.Controls.Add(this.DisplayButton);

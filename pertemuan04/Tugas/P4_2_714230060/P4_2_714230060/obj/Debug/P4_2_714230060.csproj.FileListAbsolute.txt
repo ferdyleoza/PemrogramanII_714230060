@@ -5,3 +5,10 @@ C:\Users\Lenovo\Documents\ferdy\Kuliah Ferdy ULBI\Semester3\pemrograman ferdy\Pe
 C:\Users\Lenovo\Documents\ferdy\Kuliah Ferdy ULBI\Semester3\pemrograman ferdy\PemrogramanII_714230060\pertemuan 04\Tugas\P4_2_714230060\P4_2_714230060\obj\Debug\P4_2_714230060.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Documents\ferdy\Kuliah Ferdy ULBI\Semester3\pemrograman ferdy\PemrogramanII_714230060\pertemuan 04\Tugas\P4_2_714230060\P4_2_714230060\obj\Debug\P4_2_714230060.exe
 C:\Users\Lenovo\Documents\ferdy\Kuliah Ferdy ULBI\Semester3\pemrograman ferdy\PemrogramanII_714230060\pertemuan 04\Tugas\P4_2_714230060\P4_2_714230060\obj\Debug\P4_2_714230060.pdb
+C:\Users\Lenovo\Documents\ferdy\Kuliah Ferdy ULBI\Semester3\pemrograman ferdy\PemrogramanII_714230060\pertemuan04\Tugas\P4_2_714230060\P4_2_714230060\bin\Debug\P4_2_714230060.exe.config
+C:\Users\Lenovo\Documents\ferdy\Kuliah Ferdy ULBI\Semester3\pemrograman ferdy\PemrogramanII_714230060\pertemuan04\Tugas\P4_2_714230060\P4_2_714230060\bin\Debug\P4_2_714230060.exe
+C:\Users\Lenovo\Documents\ferdy\Kuliah Ferdy ULBI\Semester3\pemrograman ferdy\PemrogramanII_714230060\pertemuan04\Tugas\P4_2_714230060\P4_2_714230060\bin\Debug\P4_2_714230060.pdb
+C:\Users\Lenovo\Documents\ferdy\Kuliah Ferdy ULBI\Semester3\pemrograman ferdy\PemrogramanII_714230060\pertemuan04\Tugas\P4_2_714230060\P4_2_714230060\obj\Debug\P4_2_714230060.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\ferdy\Kuliah Ferdy ULBI\Semester3\pemrograman ferdy\PemrogramanII_714230060\pertemuan04\Tugas\P4_2_714230060\P4_2_714230060\obj\Debug\P4_2_714230060.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\ferdy\Kuliah Ferdy ULBI\Semester3\pemrograman ferdy\PemrogramanII_714230060\pertemuan04\Tugas\P4_2_714230060\P4_2_714230060\obj\Debug\P4_2_714230060.exe
+C:\Users\Lenovo\Documents\ferdy\Kuliah Ferdy ULBI\Semester3\pemrograman ferdy\PemrogramanII_714230060\pertemuan04\Tugas\P4_2_714230060\P4_2_714230060\obj\Debug\P4_2_714230060.pdb
