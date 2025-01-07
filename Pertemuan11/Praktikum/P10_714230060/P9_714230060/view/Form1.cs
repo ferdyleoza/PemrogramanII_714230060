@@ -38,6 +38,7 @@ namespace P10_714230060
             textboxAlamat.Text = "";
             textboxEmail.Text = "";
             textboxNohp.Text = "";
+            textBoxCaridata.Text = "";
         }
 
 
@@ -153,6 +154,11 @@ namespace P10_714230060
                 ResetForm(); // Bersihkan form
                 Tampil();    // Refresh tampilan data
             }
+        }
+
+        private void textBoxCaridata_TextChanged(object sender, EventArgs e)
+        {
+            DataMahasiswa.DataSource = koneksi.ShowData("SELECT * FROM t_mahasiswa WHERE npm LIKE '%" + textBoxCaridata.Text + "%' OR nama LIKE '%" + textBoxCaridata.Text + "%'");
         }
     }
 }

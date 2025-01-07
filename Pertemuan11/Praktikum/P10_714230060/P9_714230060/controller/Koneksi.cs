@@ -40,5 +40,12 @@ namespace P10_714230060
             return datatable;
         }
 
+        public MySqlDataReader reader(string query)
+        {
+            MySqlCommand cmd = new MySqlCommand(query, kon);
+            MySqlDataReader dr = cmd.ExecuteReader();
+            return dr;
+        }
+
     }
 }

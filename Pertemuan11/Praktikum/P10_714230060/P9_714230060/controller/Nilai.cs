@@ -1,4 +1,5 @@
-﻿using P_11_714230060.model;
+﻿using P10_714230060;
+using P9_714230060.model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace P_11_714230060.controller
+namespace P9_714230060.controller
 {
     internal class Nilai
     {

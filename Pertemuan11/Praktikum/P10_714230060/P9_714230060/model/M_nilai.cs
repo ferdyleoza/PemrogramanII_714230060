@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace P_11_714230060.model
+namespace P9_714230060.model
 {
     internal class M_nilai
     {
-
         string matkul, kategori, npm, nilai;
         public M_nilai()
         {
@@ -25,4 +24,7 @@ namespace P_11_714230060.model
         public string Npm { get => npm; set => npm = value; }
         public string Nilai { get => nilai; set => nilai = value; }
     }
+
 }
+
+
